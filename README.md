@@ -3,10 +3,7 @@ C# player controller for 2D platformer
 
 It includes:
 
--Jump
-
--Double jump
-
--Wall jump
-
--Dash
+- Jump
+- Double jump
+- Wall jump
+- Dash
