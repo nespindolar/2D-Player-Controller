@@ -6,4 +6,5 @@ It includes:
 - Jump
 - Double jump
 - Wall jump
+- Wall slide
 - Dash
