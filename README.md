@@ -8,7 +8,7 @@ It includes:
 - Jump
 - Wall jump
 - Wall slide
-- Dash
+- 8-directional dash
 
 <p align="center">
   <img src="images/2d_controller_01.png" width="340">
