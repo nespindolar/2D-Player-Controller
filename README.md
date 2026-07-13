@@ -18,7 +18,7 @@ It includes:
 
 # Code
 
-Complete [C# code] for the current prototype.
+Complete [C# code](code) for the current prototype.
 
 # Documents
 
