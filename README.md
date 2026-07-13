@@ -22,4 +22,4 @@ Complete [C# code](code) for the current prototype.
 
 # Documents
 
-[QA Sample](docs)
+[QA Sample](docs) of a bug report during development.
