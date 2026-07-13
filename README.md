@@ -1,7 +1,7 @@
 # 2D-Player-Controller
 C# player controller for 2D platformer in Unity.
 
-# Features
+## Features
 
 It includes:
 
@@ -16,7 +16,7 @@ It includes:
   <img src="images/2d_controller_02.png" width="300">  
 </p>
 
-# Code
+## Code
 
 Complete [C# code](code) for the current prototype.
 
