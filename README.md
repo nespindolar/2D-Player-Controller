@@ -12,7 +12,7 @@ It includes:
 - Dash
 
 <p align="center">
-  <img src="images/pong_prototype_01.png" width="300">
+  <img src="images/2d_controller_01.png" width="300">
   &nbsp;&nbsp;&nbsp;
-  <img src="images/pong_prototype_02.png" width="300">  
+  <img src="images/2d_controller_02.png" width="300">  
 </p>
