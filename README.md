@@ -20,6 +20,6 @@ It includes:
 
 Complete [C# code](code) for the current prototype.
 
-# Documents
+## Documents
 
 [QA Sample](docs) of a bug report during development.
